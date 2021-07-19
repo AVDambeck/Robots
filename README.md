@@ -12,7 +12,7 @@ First I set the page size very small. I live in the US, so regrettably I use let
 To maintain size through the project I set the page size to what it finally would be, 1/8th of a letter paper: 2.75" x 4.25". I set the margins very small, 0.1". You need a tiny bit of margin to keep the edges of letters safe, but you really don't need more than necessary. You could probably shave these a little smaller if you really needed that last bit of space.
 
 ## Text Formatting
-In a single 8 fold zine, there really is not a lot of space. The text body is a very clear font, Matrix Book. It's only 11 point which is on the side for game instructions, and to fit all the text I had even squeezed the kerning (character spacing) down -0.3 pt. The paragraph spacing is also minimal, 0.02", with line spacing of only 110%. 
+In a single 8 fold zine, there really is not a lot of space. The text body is a very clear font, Matrix Book. It's only 11.5 point which is on the side for game instructions, and to fit all the text I had even squeezed the kerning (character spacing) down -0.3 pt. The paragraph spacing is also minimal, 0.02", with line spacing of only 110%. 
 
 The key thing in mind is legibility. Font needs to be clearly seen even when struggling to hold the tiny zine. 
 
