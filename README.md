@@ -17,4 +17,4 @@ In a single 8 fold zine, there really is not a lot of space. The text body is a 
 The key thing in mind is legibility. Font needs to be clearly seen even when struggling to hold the tiny zine. 
 
 ## Exporting
-I simply exported it as a pdf, and split it into images using the script from the zine machine.
+I simply exported it as a pdf, and split it into images using the script from the zine machine. LibreOffice does have a png export, but it only does a page at the time.
